@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "CO2.ts",
+        "MAX3010x.ts",
         "_locales/ja/CO2-strings.json"
     ],
     "testFiles": [
